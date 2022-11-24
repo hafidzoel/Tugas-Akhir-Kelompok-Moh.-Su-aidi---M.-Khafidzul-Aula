@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
+/* BODY */
+/* body {
+    min-height: 5000px;
+    font-family: "Roboto", sans-serif;
+} */
+
+a {
+    color: #c1801e;
+}
+
+/* NAVBAR */
+.nav-link:hover {
+    color: #c1801e !important;
+}
+
+/* HEADER */
+img.hero {
+    width: 100%;
+}
+
+/* MAIN - LAYANAN */
+.layanan {
+    width: 100%;
+    background-color: #f7faff ;
+    padding: 4rem;
+}
+
+.media {
+    width: 60px;
+    height: 60px;
+}
+
+/* MAIN - KASUS COVID */
+.card {
+    width: 80;
+    margin-top: 50px;
+    box-shadow: 0px 10px 40px 10px rgb(140, 152, 164, 0.18);
+    border: none;
+}
+
+.section-title {
+    margin-top: 30px;
+}
+
+.data-box {
+    font-family: Roboto;
+    width: 250px;
+    margin: 20px auto 0 auto;
+    color: white;
+}
+
+.data {
+    padding-top: 24px;
+    font-size: 40px;
+}
+
+.data-title {
+    padding-bottom: 24px;
+    font-size: 16px;
+}
+
+.data-total {
+    background-color: #4b7cbb;
+}
+
+.data-aktif {
+    background-color: #ceb546;
+}
+
+.data-sembuh {
+    background-color: #4dc259;
+}
+
+.data-meninggal {
+    background-color: #d84344;
+}
+
+.sumber-data {
+    margin: 0;
+    font-size: 10pt;
+}
+
+/* MAIN - BERITA TERBARU */
+a {
+    text-decoration: none;
+}
+
+.big-card {
+    min-height: 350px;
+}
+
+/* MAIN - FITUR POLRI */
+.card {
+    margin-top: 0;
+}
+
+.card-footer {
+    background-color: white;
+}
+
+/* MAIN - KONTAK RESMI POLRI */
+.btn-kontak {
+    background-color: #c1801e;
+    border-color: #c1801e;
+}
+
+.btn-kontak:hover {
+    background-color: #c98725;
+    border-color: #c98725;
+}
+
+/* FOOTER */
